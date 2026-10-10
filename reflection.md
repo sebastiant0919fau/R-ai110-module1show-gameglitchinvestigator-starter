@@ -4,6 +4,8 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 ## 1. What was broken when you started?
 
+What was broken was the attempt number was off by 1, the difficulty of normal and hard were swapped(normal should be 1 - 50 and hard should be 1 - 100), the new game button would also not start a new game.
+
 - What did the game look like the first time you ran it?
 - List at least two concrete bugs you noticed at the start  
   (for example: "the hints were backwards").
@@ -14,7 +16,7 @@ Document at least 3 bugs you found. Add rows as needed.
 
 | Input | Expected Behavior | Actual Behavior | Console Output / Error |
 |-------|-------------------|-----------------|------------------------|
-| | | | |
+| attempts | attempts should be 8| attempts was 7 | |
 | | | | |
 | | | | |
 
